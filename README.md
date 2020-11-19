@@ -67,3 +67,5 @@ enum Status {
 
 ### Submission Instructions
 * Share the repository link and public url of the deployed application with your point of contact at Stable
+
+Good luck!
