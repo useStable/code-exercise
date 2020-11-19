@@ -10,8 +10,8 @@ This exercise should take 2 - 4 hours to complete.
 
 ### Technical Requirements
 * Users can view the mock mail item data provided in the data.json file 
-* Users can view 8 mail items per page
-* Users can click through multiple pages when there are more than 8 mail items to display
+* Users can view 6 mail items per page, with a maximum of 3 mail items per row
+* Users can click through multiple pages when there are more than 6 mail items to display
 * Users can easily interact with the web application in all screen sizes
 
 ### Resources
