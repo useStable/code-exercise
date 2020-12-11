@@ -84,7 +84,7 @@
 
 		"businessRecipient": "Stable",
 		"forward": {
-			"status": ""
+			"status": "processing"
 		},
 		"from": "IRS",
 		"imageUrl": "https://s3-us-west-2.amazonaws.com/usestable.com-assets/mail/IRS.png",
