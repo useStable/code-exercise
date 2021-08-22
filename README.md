@@ -9,10 +9,10 @@ This exercise should take 2 - 4 hours to complete.
 * The web application is accessible from the public internet
 
 ### Technical Requirements
-* Users can view the mock mail item data provided in the data.json file 
 * Users can view 6 mail items per page, with a maximum of 3 mail items per row
 * Users can click through multiple pages when there are more than 6 mail items to display
 * Users can easily interact with the web application in all screen sizes
+* The mock mail item data provided in the data.json file is served via an endpoint
 * The codebase is pushed to a remote repository
 
 ### Resources
