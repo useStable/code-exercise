@@ -5,14 +5,14 @@
 		"from": "First Republic Bank",
 		"imageUrl": "https://s3-us-west-2.amazonaws.com/usestable.com-assets/mail/FRB1.png",
 		"individualRecipient": "Sarah Ahmad",
-		"timestamp": 1696585600000
+		"createdAt": 1696585600000
 	},
 	{
 		"id": "8342fd8c-cf24-4a42-8d69-1f859c8dea9c",
 		"businessRecipient": "Stable",
 		"from": "CSC",
 		"imageUrl": "https://s3-us-west-2.amazonaws.com/usestable.com-assets/mail/CSC.png",
-		"timestamp": 1696412800000
+		"createdAt": 1696412800000
 	},
 	{
 		"id": "aa90bd43-1a09-4f22-b91e-289a3cb4db62",
@@ -20,28 +20,28 @@
 		"from": "EDD",
 		"imageUrl": "https://s3-us-west-2.amazonaws.com/usestable.com-assets/mail/EDD.png",
 		"individualRecipient": "Sarah Ahmad",
-		"timestamp": 1696412800000
+		"createdAt": 1696412800000
 	},
 	{
 		"id": "c72d4d5f-6c35-4f1c-a941-1de8a65fffd3",
 		"from": "United Healthcare",
 		"imageUrl": "https://s3-us-west-2.amazonaws.com/usestable.com-assets/mail/United+Healthcare.png",
 		"individualRecipient": "Collin Pham",
-		"timestamp": 1696240000000
+		"createdAt": 1696240000000
 	},
 	{
 		"id": "eb374c67-edd0-4a03-9ce5-d18f6f6f58bb",
 		"businessRecipient": "Stable",
 		"from": "NY Dept of Taxation and Finance",
 		"imageUrl": "https://s3-us-west-2.amazonaws.com/usestable.com-assets/mail/NY.png",
-		"timestamp": 1690319895904
+		"createdAt": 1690319895904
 	},
 	{
 		"id": "27842903-b091-4f66-a829-fc64c0418e9f",
 		"businessRecipient": "Stable",
 		"from": "California Franchise Tax Board",
 		"imageUrl": "https://s3-us-west-2.amazonaws.com/usestable.com-assets/mail/CA+Tax.png",
-		"timestamp": 1702319895904
+		"createdAt": 1702319895904
 	},
 	{
 		"id": "7ff9ffab-6968-4488-a95a-8e537a7ac277",
@@ -49,7 +49,7 @@
 		"from": "City and County of San Francisco",
 		"imageUrl": "https://s3-us-west-2.amazonaws.com/usestable.com-assets/mail/City+%26+County+of+SF.png",
 		"individualRecipient": "Sarah Ahmad",
-		"timestamp": 1700019895904
+		"createdAt": 1700019895904
 	},
 	{
 		"id": "35911934-8c7e-48fc-b0cc-8b07dd8b24cf",
@@ -60,7 +60,7 @@
 		"from": "IRS",
 		"imageUrl": "https://s3-us-west-2.amazonaws.com/usestable.com-assets/mail/IRS.png",
 		"individualRecipient": "Sarah Ahmad",
-		"timestamp": 1700319895904
+		"createdAt": 1700319895904
 	},
 	{
 		"id": "04fbd0fa-0789-4268-a115-53ebb12e647b",
@@ -68,13 +68,13 @@
 		"from": "First Republic Bank",
 		"imageUrl": "https://s3-us-west-2.amazonaws.com/usestable.com-assets/mail/FRB2.png",
 		"individualRecipient": "Collin Pham",
-		"timestamp": 1701019895904
+		"createdAt": 1701019895904
 	},
 	{
 		"id": "8fff5994-7e11-4303-a1bf-d2b25d47dd71",
 		"from": "Kaiser",
 		"imageUrl": "https://s3-us-west-2.amazonaws.com/usestable.com-assets/mail/Kaiser.png",
 		"individualRecipient": "Collin Pham",
-		"timestamp": 1701219895904
+		"createdAt": 1701219895904
 	}
 ]

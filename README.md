@@ -7,11 +7,8 @@ This exercise should take 2 - 4 hours to complete.
 ### Requirements
 * The web application resembles the provided mock-ups
 * The mock mail item data provided in the `data.json` file (in the top level of this repository) is served to the frontend via an endpoint that supports pagination and search
-* Users can paginate forward and backward through the mail items when there are more than 6 mail items
-* Users can use the search bar to query on the following mail attributes
-  - `businessRecipient`
-  - `from`
-  - `individualRecipient`
+* Users can paginate through the mail items when there are more than 6 mail items
+* Users can search for mail
 * The codebase is pushed to a remote repository
 
 ### Resources
@@ -30,7 +27,7 @@ type MailItem {
 	from: String!
 	imageUrl: String!
 	individualRecipient: String
-	timestamp: Number!
+	createdAt: Number!
 }
 ```
 
