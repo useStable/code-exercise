@@ -1,6 +1,6 @@
 # Stable | Code Exercise
 
-For this exercise, you'll implement a simple web application for users to view physical mail they've received at a Stable facility. Once the web application is complete, you'll demo and review it with a member of the Stable engineering team.
+For this exercise, you'll implement a simple web application for users to view physical mail they've received at a Stable facility. Once the web application is complete, your submission will be reviewed. If we decide to move forward with the interview process, you'll demo and walk through your submission with someone from the Stable engineering team.
 
 This exercise should take 2 - 4 hours to complete. 
 
